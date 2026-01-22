@@ -18,12 +18,12 @@ Proyecto: **FactuCloud** – Entregable 1
 
 ### 🏢 La Empresa (Cliente)
 
-* **Nombre:** Comercial La Central SRL (Empresa ficticia basada en procesos reales).
+* **Nombre:** **Comercial NovaTech SRL** (Empresa ficticia basada en procesos reales)*.
 * **Sector:** Comercio y Ventas de Productos al Detalle.
 
 ### ⚠️ El Problema
 
-Actualmente, **“Comercial La Central”** realiza su facturación de forma manual utilizando talonarios físicos y hojas de Excel. Esto genera varios problemas importantes:
+Actualmente, **Comercial NovaTech SRL** realiza su facturación de forma manual utilizando talonarios físicos y hojas de Excel. Esto genera varios problemas importantes:
 
 1. **Errores en las facturas:** Cálculos incorrectos de totales, impuestos y descuentos.
 2. **Falta de control de ventas:** No existe un reporte claro de ventas diarias, mensuales o por cliente.
@@ -32,7 +32,7 @@ Actualmente, **“Comercial La Central”** realiza su facturación de forma man
 
 ### 💡 La Solución Propuesta
 
-Desarrollar **“FactuSys”**, un **sistema web de facturación** que permita registrar clientes, productos y ventas, generar facturas automáticamente, llevar control de caja y emitir reportes claros para la administración del negocio.
+Desarrollar FactuCloud, un sistema web de facturación que permita registrar clientes, productos y ventas, generar facturas automáticamente, llevar control de caja y emitir reportes claros para la administración del negocio.
 
 ---
 
@@ -61,12 +61,10 @@ Desarrollar **“FactuSys”**, un **sistema web de facturación** que permita r
 
 ## 4. Stack Tecnológico
 
-* **Lenguaje:** JavaScript / TypeScript
-* **Frontend:** React.js + Tailwind CSS
-* **Backend:** Node.js con Express
-* **Base de Datos:** PostgreSQL (Base de datos relacional para manejo de ventas y facturas).
-* **Herramientas Extra:** Vercel (Deploy), GitHub Projects (gestión del proyecto).
-
+•	**Tipo de sistema:** Aplicación Web.
+•	**Framework:** Ionic.
+•	**Base de datos:** Supabase (Base de datos relacional).
+•	**Lenguajes:** HTML, CSS, TypeScript, SQL.
 ---
 
 ## 5. Requerimientos
@@ -75,7 +73,7 @@ Desarrollar **“FactuSys”**, un **sistema web de facturación** que permita r
 
 | ID    | Título                 | Descripción Breve                                                 | Prioridad      |
 | ----- | ---------------------- | ----------------------------------------------------------------- | -------------- |
-| RF-01 | Gestión de Clientes    | El sistema permitirá crear, editar y consultar clientes.          | Media          |
+| RF-01 | Gestión de Clientes    | El sistema permitirá crear, editar y consultar clientes.          | Alta          |
 | RF-02 | Gestión de Productos   | El administrador podrá registrar productos con precio e impuesto. | Alta           |
 | RF-03 | Generación de Facturas | El sistema calculará automáticamente subtotal, impuestos y total. | Alta (Crítico) |
 | RF-04 | Registro de Pagos      | El usuario podrá registrar el método de pago de cada factura.     | Alta           |
@@ -87,6 +85,4 @@ Desarrollar **“FactuSys”**, un **sistema web de facturación** que permita r
 2. **Seguridad:** Solo usuarios autorizados podrán acceder al sistema.
 3. **Rendimiento:** El sistema debe responder en menos de 2 segundos al generar una factura.
 4. **Diseño Responsivo:** El sistema debe funcionar correctamente en computadoras, tablets y celulares.
-
 ---
-... (Quedan 10 líneas)
