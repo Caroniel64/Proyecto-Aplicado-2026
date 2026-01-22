@@ -91,5 +91,5 @@ SQL
 1. **Usabilidad:** La creación de una factura no debe tomar más de 5 pasos.
 2. **Seguridad:** Solo usuarios autorizados podrán acceder al sistema.
 3. **Rendimiento:** El sistema debe responder en menos de 2 segundos al generar una factura.
-4. **Diseño Responsivo:** El sistema debe funcionar correctamente en computadoras, tablets y celulares.
+4. **Diseño Responsivo:** El sistema debe funcionar correctamente en computadoras.
 ---
