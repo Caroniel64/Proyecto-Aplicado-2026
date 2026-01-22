@@ -10,7 +10,7 @@ Proyecto: **FactuCloud** – Entregable 1
 | ---------------------- | -------------| ------------- |
 | Caroniel Reynoso       | Fullstack    | @Caroniel64   |
 | Yoelvi Suarez Rondon   |  Fullstack   | @natha-bit    |
-| Heidy Lissette         | Frontend     |               |
+| Heidy Lissette         | Frontend     |               Lissette-0608|
 
 ---
 
