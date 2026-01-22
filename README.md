@@ -61,10 +61,17 @@ Desarrollar FactuCloud, un sistema web de facturación que permita registrar cli
 
 ## 4. Stack Tecnológico
 
-•	**Tipo de sistema:** Aplicación Web.
-•	**Framework:** Ionic.
-•	**Base de datos:** Supabase (Base de datos relacional).
-•	**Lenguajes:** HTML, CSS, TypeScript, SQL.
+•	**Tipo de sistema:** 
+Aplicación Web.
+•	**Framework:** 
+Ionic.
+•	**Base de datos:** 
+Supabase (Base de datos relacional).
+•	**Lenguajes:**
+HTML
+CSS
+TypeScript
+SQL
 ---
 
 ## 5. Requerimientos
